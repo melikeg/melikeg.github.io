@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-03T02:29:43+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Melike Görgülü</title><subtitle>Melike Görgülü - Created with Jekyll </subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2019/03/03/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-03-03T00:00:51+03:00</published><updated>2019-03-03T00:00:51+03:00</updated><id>http://localhost:4000/jekyll/update/2019/03/03/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/03/03/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Temel Terminal Komutları</title><link href="http://localhost:4000/2019/03/03/temel-terminal-komutlari.html" rel="alternate" type="text/html" title="Temel Terminal Komutları" /><published>2019-03-03T00:00:00+03:00</published><updated>2019-03-03T00:00:00+03:00</updated><id>http://localhost:4000/2019/03/03/temel-terminal-komutlari</id><content type="html" xml:base="http://localhost:4000/2019/03/03/temel-terminal-komutlari.html">&lt;p&gt;Merhaba! Size bu yazımda temel terminal komutlarını anlatacağım. Öncelikle terminal nedir ile başlayalım.&lt;/p&gt;
+
+&lt;h1 id=&quot;termi̇nal-nedi̇r&quot;&gt;&lt;strong&gt;TERMİNAL NEDİR?&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;Terminal, linux işletim sistemli bilgisayarlarda ve apple bilgisayarlarda yer alır. Windows işletim sistemli bilgisayarlarda ise komut satırı veya komut istemcisi olarak bilinir. Bilgisayar dünyasında fare işaretleyicilerinin ve grafik arayüzlerinin olmadığı zamanlarda kullanılıyordu. Eğer yazılımla uğraşıyorsanız komut satırına yakın olmanız yazılım geliştirirken size çok büyük avantaj sağlayacaktır.&lt;/p&gt;
+
+&lt;h1 id=&quot;termi̇nal-komutlari&quot;&gt;&lt;strong&gt;TERMİNAL KOMUTLARI&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;Terminal komutları metinsel ifadelerle kullanıcının ve bilgisayarın iletişime geçmesini sağlar. Yani aslında dosya oluşturma işlemini masaüstünde fare yardımıyla yapabileceğimiz gibi terminalde de oluşturabiliriz ya da silebiliriz.&lt;/p&gt;
+
+&lt;h2 id=&quot;cd&quot;&gt;cd&lt;/h2&gt;
+
+&lt;p&gt;Change Directory kelimesinin baş harflerinden gelir. Bulunduğumuz dizini değiştirmek için kullanırız. Mesela aşağıdaki örnekte cd ile önce Projects klasörüne sonra da ruby klasörüne girdik. “cd..” komutuyla da bir alt dizine inebilirsiniz.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;melike@DESKTOP-K6C47S6:~$ cd Projects&lt;/p&gt;
+&lt;p&gt;melike@DESKTOP-K6C47S6:~/Projects$ cd ruby&lt;/p&gt;
+&lt;p&gt;melike@DESKTOP-K6C47S6:~/Projects/ruby$ cd ..&lt;/p&gt;
+&lt;p&gt;melike@DESKTOP-K6C47S6:~/Projects$&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;ls-veya-dir&quot;&gt;ls veya dir&lt;/h2&gt;
+
+&lt;p&gt;Directory ve list kelimelerinin kısaltmalarıdır. Bu komutlar bulunduğunuz klasör içindeki dosyaları listeler.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;melike@DESKTOP-K6C47S6:~$ ls&lt;/p&gt;
+&lt;p&gt;Projects  melikeg.github.io  wewanted&lt;/p&gt;
+&lt;p&gt;melike@DESKTOP-K6C47S6:~$ dir&lt;/p&gt;
+&lt;p&gt;Projects  melikeg.github.io  wewanted&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Aynı zamanda,&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“ls -a” komutu ile gizli dosyaları&lt;/li&gt;
+  &lt;li&gt;“ls -l” komutu ile ayrıntılarıyla birlikte&lt;/li&gt;
+  &lt;li&gt;“ls -R” komutu ile tüm alt klasörleri&lt;/li&gt;
+  &lt;li&gt;“ls -t” komutu ile zamana göre sıralanmış şekilde listeleyebilirsiniz.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;help&quot;&gt;help&lt;/h2&gt;
+
+&lt;p&gt;help komutunu tek başına kullandığınızda tüm komular hakkında bilgi alabilirsiniz. Örneğin, cd komutu hakkında bilgi almak için “help cd” yazabilirsiniz.&lt;/p&gt;
+
+&lt;h2 id=&quot;pwd&quot;&gt;pwd&lt;/h2&gt;
+
+&lt;p&gt;Klasörün tam konumunu gösterir.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;melike@DESKTOP-K6C47S6:~$ pwd&lt;/p&gt;
+&lt;p&gt;/home/melike&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;del&quot;&gt;del&lt;/h2&gt;
+&lt;p&gt;del komutunu dosya silmek için kullanırız. Kullanımı &lt;strong&gt;del dosya_adı&lt;/strong&gt; şeklindedir. Bulunduğunuz dosyanın içindeki tüm dosyaları silmek istiyorsanız &lt;em&gt;*del **&lt;/em&gt; komutunu kullanmalısınız.&lt;/p&gt;
+
+&lt;h2 id=&quot;rmdir&quot;&gt;rmdir&lt;/h2&gt;
+&lt;p&gt;rmdir komutunu klasör silmek için kullanılırız ama yalnız yazılınca içi boş olan klasörleri siler. İçi dolu klasöerleri silmek için &lt;strong&gt;/S&lt;/strong&gt;  parametresi eklememiz gerekiyor.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;rmdir /S klasör_adı&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ayrıca rm komutu ile hem dosya hem klasör silebiliriz. &lt;strong&gt;rm&lt;/strong&gt; yazarak dosya &lt;strong&gt;-r&lt;/strong&gt; parametresi ekleyerek de klasör silebiliriz.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;rm dosya_adı&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;rm -r klasör_adı&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;mkdir&quot;&gt;mkdir&lt;/h2&gt;
+&lt;p&gt;Make Directory kelimelerinin kısaltılmış halidir. mkdir komutunu yeni dizin oluşturmak için kullanırız. Aşağıdaki örnekte klasör klasörünün içini ls ile listeledik, boştu. mkdir ile klasörün içine notlar adında bir klasör oluşturduk.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;melike@DESKTOP-K6C47S6:~/dosya$ ls&lt;/p&gt;
+&lt;p&gt;melike@DESKTOP-K6C47S6:~/dosya$ mkdir notlar&lt;/p&gt;
+&lt;p&gt;melike@DESKTOP-K6C47S6:~/dosya$ ls&lt;/p&gt;
+&lt;p&gt;notlar&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;echo&quot;&gt;echo&lt;/h2&gt;
+&lt;p&gt;Input olarak girilen yazıyı gönderildiği parametrelerle birlikte gösterir.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;melike@DESKTOP-K6C47S6:~$ echo &quot;Merhaba&quot;&lt;/p&gt;
+&lt;p&gt;Merhaba&lt;/p&gt;
+&lt;p&gt;melike@DESKTOP-K6C47S6:~$ echo $((9+5))&lt;/p&gt;
+&lt;p&gt;14&lt;/p&gt;
+&lt;p&gt;melike@DESKTOP-K6C47S6:~$ echo {1,2,3,4}veya&lt;/p&gt;
+&lt;p&gt;1veya 2veya 3veya 4veya&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;shutdown&quot;&gt;shutdown&lt;/h2&gt;
+&lt;p&gt;Bilgisayarı belli bir süre sonra kapatmak için kullanılır.&lt;/p&gt;
+
+&lt;h2 id=&quot;exit&quot;&gt;exit&lt;/h2&gt;
+&lt;p&gt;Terminalden çıkmak için kullanılır.&lt;/p&gt;
+
+&lt;h2 id=&quot;ctrlc&quot;&gt;ctrl^c&lt;/h2&gt;
+&lt;p&gt;Çalışan terminal işlemini sonlandırır.&lt;/p&gt;
+
+&lt;h2 id=&quot;clear&quot;&gt;clear&lt;/h2&gt;
+&lt;p&gt;Terminal ekranını temizlemek için kullanılır. clear yerine &lt;strong&gt;cls&lt;/strong&gt; de yazılabilir.&lt;/p&gt;</content><author><name></name></author><summary type="html">Merhaba! Size bu yazımda temel terminal komutlarını anlatacağım. Öncelikle terminal nedir ile başlayalım. TERMİNAL NEDİR? Terminal, linux işletim sistemli bilgisayarlarda ve apple bilgisayarlarda yer alır. Windows işletim sistemli bilgisayarlarda ise komut satırı veya komut istemcisi olarak bilinir. Bilgisayar dünyasında fare işaretleyicilerinin ve grafik arayüzlerinin olmadığı zamanlarda kullanılıyordu. Eğer yazılımla uğraşıyorsanız komut satırına yakın olmanız yazılım geliştirirken size çok büyük avantaj sağlayacaktır.</summary></entry></feed>
